@@ -1,7 +1,7 @@
 # UTV's en Huacachina + Sandboarding — Destinos ICA
 
 Landing page para el paseo en UTV + sandboarding en Huacachina (Ica, Perú).
-Incluye un formulario que arma el pedido y lo envía por **WhatsApp** al **+51 955946132**.
+Incluye un formulario que arma el pedido y lo envía por **WhatsApp** al **+51 955946137**.
 
 ## Cómo verla
 
